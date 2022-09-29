@@ -1,2 +1,4 @@
-# mintic-2022
-Code exercises during the course of the Mintic 2022 diplomaed course - Uninorte
+# Mintic-2022
+Code exercises during the course of the Mintic 2022 diplomaed course - Uninorte 
+
+I will be uploading the exercises and practices performed during this course. They are mostly small pieces of code done in one or three hours of class.
